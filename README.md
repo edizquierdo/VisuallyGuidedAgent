@@ -8,3 +8,5 @@ Agent and tasks set up.
 (*B*) Task 1: Object-size discrimination task. The agent moves horizontally while a circle of different size falls from above. The rays of the agent’s proximity sensors are shown in dashed blue.
 
 (*C*) Task 2: Perceiving affordances task. The agent moves horizontally while a wall with an adjustable aperture falls from above.
+
+![Schematic for the Microbial Genetic algorithm](https://github.com/edizquierdo/VisuallyGuidedAgent/blob/main/viz.png?raw=true)
